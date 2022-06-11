@@ -11,7 +11,7 @@ _A student of The Rolling Scopes School._
 
 ### *About Me*
 
-I am dentist in maternity leave.I want to learn Front-End Development in RSSchool, because my goal is work online, I really interested in IT.I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
+I am dentist in maternity leave.I want to learn Front-End Development in RSSchool, because my goal is work online,I really interested in IT.I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
 
 ### Education and course
 
